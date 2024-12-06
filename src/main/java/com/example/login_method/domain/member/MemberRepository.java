@@ -12,4 +12,6 @@ public class MemberRepository {
     private static HashMap<Long, Member> store = new HashMap<>();
 
 
+
+
 }
