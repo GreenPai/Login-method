@@ -11,9 +11,11 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 @RequiredArgsConstructor
 public class LoginController {
 
+    /*
     @GetMapping
     public String loginForm(@ModelAttribute("loginForm") LoginForm)
 
+*/
 
 
 
